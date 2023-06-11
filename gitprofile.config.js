@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'vermi', // Your GitHub org/user name. (Required)
+    username: 'mheri613', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 10, // How many projects to display.
     exclude: {
@@ -18,8 +18,8 @@ const config = {
     instagram: '',
     dribbble: '',
     behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
+    medium: 'vermi',
+    dev: 'vermi',
     stackoverflow: '', // format: userid/username
     skype: '',
     telegram: '',
